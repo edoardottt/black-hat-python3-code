@@ -9,7 +9,7 @@ Created on Mon Jun 22 16:55:20 2020
 import socket
 import threading
 
-bind_ip = "0.0.0.0"
+bind_ip = "127.0.0.1"
 bind_port = 9999
 
 server = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
