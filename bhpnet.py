@@ -135,7 +135,7 @@ def client_sender(buffer):
                 
                 data = client.recv(4096)
                 recv_len = len(data)
-                response += data
+                response += data.decode(errors="ignore")
                 
                 if recv_len < 4096:
                     break
@@ -147,7 +147,7 @@ def client_sender(buffer):
             buffer += "\n"
 
             # send it off
-            client.send(buffer)
+            client.send(buffer.encode())
     except:
         print("[*] Exception! Exiting")
 
@@ -210,10 +210,6 @@ def client_handler(client_socket):
             
             # send back the response
             client_socket.send(response)
-            
-
-main()
-
 
 def run_command(command):
     
@@ -227,4 +223,6 @@ def run_command(command):
         output = "Failed to execute command.\r\n"
         
     # send the output back to th client
-    return output
+    return output            
+
+main()
