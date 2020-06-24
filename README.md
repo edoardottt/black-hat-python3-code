@@ -1,7 +1,7 @@
 # black-hat-python3-code
 
-Contents
-------------
+Contents 🔍
+---------
 
 - **Chapter 2 - The Network: Basics**
   
