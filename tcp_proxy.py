@@ -41,7 +41,7 @@ def server_loop(local_host, local_port, remote_host, remote_port, receive_first)
 # https://code.activestate.com/recipes/142812-hex-dumper/
 def hexdump(src, length=16):
     result = []
-    digits = 4 if ininstance(src,unicode) else 2
+    digits = 4 if isinstance(src,unicode) else 2
     
     for i in xrange(0, len(src), length):
         s = src[i:i+length]
