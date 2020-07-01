@@ -1,8 +1,6 @@
 # bl4ck-H4t-pyTh0n3-c0d3
 
-# 🏴‍☠️ 🐍 💻
-
-![python-version](https://github.com/edoardottt/black-hat-python3-code/blob/master/images/python-version.svg)
+# 🏴‍☠️ 🐍 💻  ![python-version](https://github.com/edoardottt/black-hat-python3-code/blob/master/images/python-version.svg)
 
 Contents 🔍
 ---------
