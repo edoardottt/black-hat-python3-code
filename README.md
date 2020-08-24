@@ -25,4 +25,20 @@ Contents 🔍
 
 - **Chapter 4 - Owning the network with Scapy**
 
-    If you want to contribute just make a pull request.
+  - [mail sniffer](https://github.com/edoardottt/black-hat-python3-code/blob/master/mail_sniffer.py)
+  - [ARP poisoning](https://github.com/edoardottt/black-hat-python3-code/blob/master/arper.py)
+    
+Contributing 🛠
+-------
+
+Just open an issue/pull request.
+
+--------------------------
+If you liked it drop a :star:
+--------------------------
+
+https://www.edoardoottavianelli.it for contact me.
+
+
+  
+                                                                Edoardo Ottavianelli ©
