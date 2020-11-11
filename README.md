@@ -43,4 +43,4 @@ https://www.edoardoottavianelli.it for contact me.
 
 
   
-                                                                Edoardo Ottavianelli ©
+                                                                Edoardo Ottavianelli
