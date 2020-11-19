@@ -32,7 +32,7 @@ Contents 🔍
 
 - **Chapter 5 - Web Hackery**
 
-  - []()
+  - [Web app mapper](https://github.com/edoardottt/black-hat-python3-code/blob/master/web_app_mapper.py)
   - [Content bruter](https://github.com/edoardottt/black-hat-python3-code/blob/master/content_bruter.py)
     
 Contributing 🛠
