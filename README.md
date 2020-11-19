@@ -27,7 +27,7 @@ Contents 🔍
 
   - [mail sniffer](https://github.com/edoardottt/black-hat-python3-code/blob/master/mail_sniffer.py)
   - [ARP poisoning](https://github.com/edoardottt/black-hat-python3-code/blob/master/arper.py)
-  - [Pictures carver](https://github.com/edoardottt/black-hat-python3-code/blob/master/pic_carver.py
+  - [Pictures carver](https://github.com/edoardottt/black-hat-python3-code/blob/master/pic_carver.py)
   
 
 - **Chapter 5 - Web Hackery**
