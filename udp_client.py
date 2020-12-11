@@ -8,7 +8,7 @@ Created on Mon Jun 22 16:52:32 2020
 
 import socket
 
-target_host= "127.0.0.1"
+target_host = "127.0.0.1"
 target_port = 80
 
 # create a socket object

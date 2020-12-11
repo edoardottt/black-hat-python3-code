@@ -8,15 +8,15 @@ threads = 50
 target_url = "http://testphp.vulnweb.com"
 wordlist_file = "all.txt"  # from SVNDigger
 resume = None
-user_agent = "Mozilla/5.0 (X11; Linux x86_64; rv:19.0) " \
-             "Gecko/20100101 " \
-             "Firefox/19.0"
+user_agent = (
+    "Mozilla/5.0 (X11; Linux x86_64; rv:19.0) " "Gecko/20100101 " "Firefox/19.0"
+)
 
 
 def build_wordlist(wordlst_file):
     # read in the word list
     fd = open(wordlst_file, "r")
-    raw_words = [line.rstrip('\n') for line in fd]
+    raw_words = [line.rstrip("\n") for line in fd]
     fd.close()
 
     found_resume = False
@@ -52,7 +52,7 @@ def dir_bruter(extensions=None):
             for extension in extensions:
                 attempt_list.append("/%s%s" % (attempt, extension))
 
-        # iterate over our list of attempts        
+        # iterate over our list of attempts
         for brute in attempt_list:
             url = "%s%s" % (target_url, urllib.parse.quote(brute))
             try:

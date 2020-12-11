@@ -1,4 +1,3 @@
-
 import http.cookiejar
 import queue
 import threading
@@ -56,14 +55,17 @@ class Bruter(object):
             brute = self.password_q.get().rstrip()
             jar = http.cookiejar.FileCookieJar("cookies")
             opener = urllib.request.build_opener(
-                urllib.request.HTTPCookieProcessor(jar))
+                urllib.request.HTTPCookieProcessor(jar)
+            )
 
             response = opener.open(target_url)
 
             page = response.read()
 
-            print("Trying: %s : %s (%d left)" % (
-                self.username, brute, self.password_q.qsize()))
+            print(
+                "Trying: %s : %s (%d left)"
+                % (self.username, brute, self.password_q.qsize())
+            )
 
             # parse out the hidden fields
             parser = BruteParser()
@@ -92,7 +94,7 @@ class Bruter(object):
 def build_wordlist(wordlst_file):
     # read in the word list
     fd = open(wordlst_file, "r")
-    raw_words = [line.rstrip('\n') for line in fd]
+    raw_words = [line.rstrip("\n") for line in fd]
     fd.close()
 
     found_resume = False
