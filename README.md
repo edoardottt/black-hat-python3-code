@@ -41,6 +41,8 @@ Contributing 🛠
 
 Just open an issue/pull request.
 
+Thanks to [confident-hate](https://github.com/confident-hate)
+
 If you liked it drop a :star:
 -------
 
