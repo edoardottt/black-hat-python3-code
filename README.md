@@ -41,7 +41,7 @@ Contributing 🛠
 
 Just open an issue/pull request.
 
-Thanks to [confident-hate](https://github.com/confident-hate)
+Thanks to [confident-hate](https://github.com/confident-hate) and [mateuszz0000](https://github.com/mateuszz0000).
 
 If you liked it drop a :star:
 -------
