@@ -39,7 +39,7 @@ Contents 🔍
 Contributing 🛠
 -------
 
-Just open an issue/pull request.
+Just open an [issue](https://github.com/edoardottt/black-hat-python3-code/issues) / [pull request](https://github.com/edoardottt/black-hat-python3-code/pulls).
 
 Thanks to [confident-hate](https://github.com/confident-hate) and [mateuszz0000](https://github.com/mateuszz0000).
 
