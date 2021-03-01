@@ -39,9 +39,9 @@ Contents 🔍
 Contributing 🛠
 -------
 
-[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/0)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/0)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/1)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/1)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/2)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/2)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/3)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/3)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/4)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/4)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/5)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/5)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/6)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/6)[![](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/images/7)](https://sourcerer.io/fame/edoardottt/edoardottt/black-hat-python3-code/links/7)
+Just open an [issue](https://github.com/edoardottt/black-hat-python3-code/issues) / [pull request](https://github.com/edoardottt/black-hat-python3-code/pulls).
 
-Just open an issue/pull request.
+Thanks to [confident-hate](https://github.com/confident-hate) and [mateuszz0000](https://github.com/mateuszz0000).
 
 If you liked it drop a :star:
 -------
