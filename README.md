@@ -43,11 +43,8 @@ Just open an [issue](https://github.com/edoardottt/black-hat-python3-code/issues
 
 Thanks to [confident-hate](https://github.com/confident-hate) and [mateuszz0000](https://github.com/mateuszz0000).
 
-If you liked it drop a :star:
+License 📝
 -------
 
-https://www.edoardoottavianelli.it for contact me.
-
-
-  
-                                                                Edoardo Ottavianelli
+This repository is [unlicensed](https://github.com/edoardottt/black-hat-python3-code/blob/master/LICENSE).  
+[edoardoottavianelli.it](https://www.edoardoottavianelli.it) for contact me.
