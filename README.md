@@ -2,6 +2,8 @@
 
 ![python-version](https://github.com/edoardottt/images/blob/main/black-hat-python-code/python-version.svg)
 
+(unfinished, if you want to contribute open an issue and self-assign it to you :) )
+
 Contents 🔍
 ---------
 
