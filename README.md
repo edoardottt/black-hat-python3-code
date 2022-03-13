@@ -2,6 +2,8 @@
 
 ![python-version](https://github.com/edoardottt/images/blob/main/black-hat-python-code/python-version.svg)
 
+tools (py3 version) of Black Hat Python book.
+
 (unfinished, if you want to contribute open an [issue](https://github.com/edoardottt/black-hat-python3-code/issues)! )
 
 Contents 🔍
