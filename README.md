@@ -1,4 +1,4 @@
-# bl4ck-H4t-pyTh0n3-c0d3
+# bl4ck-h4t-pyth0n3-c0d3
 
 ![python-version](https://github.com/edoardottt/images/blob/main/black-hat-python-code/python-version.svg)
 
