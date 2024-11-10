@@ -51,4 +51,4 @@ License 📝
 -------
 
 This repository is [unlicensed](https://github.com/edoardottt/black-hat-python3-code/blob/master/LICENSE).  
-[edoardoottavianelli.it](https://www.edoardoottavianelli.it) to contact me.
+[edoardottt.com](https://edoardottt.com/) to contact me.
